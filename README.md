@@ -2,7 +2,7 @@
 
 ## Description
 
-An image panels gallery that uses flex box.
+An image panel gallery that helps practice with Flex and Flexbox.
 
 | Technologies used:    |
 | --------------------- |
@@ -10,7 +10,7 @@ An image panels gallery that uses flex box.
 
 ## Demo
 
-![Budget Tracker Demo](/public/budget-tracker.gif)
+![Gallery Demo](/ZACH.gif)
 
 ## License
 
