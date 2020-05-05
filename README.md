@@ -10,7 +10,7 @@ An image panel gallery that helps practice with Flex and Flexbox.
 
 ## Demo
 
-![Gallery Demo](/ZACH.gif)
+![Gallery Demo](/New gif.gif)
 
 ## License
 
