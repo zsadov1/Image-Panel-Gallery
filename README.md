@@ -1,4 +1,4 @@
-# Image Flec Panel Gallery
+# Image Flex Panel Gallery
 
 ## Description
 
